@@ -47,7 +47,7 @@ tim = create_turtle('yellow', 40)
 jay = create_turtle('violet', 10)
 dad = create_turtle('orange', -20)
 mom = create_turtle('purple', -50)
-fag = create_turtle('black', -80)
+funnyguy = create_turtle('black', -80)
 
 # NUMBER_OF_LINES - 1 is the logical number of lines
 finish = ((NUMBER_OF_LINES - 1) * SPACE_BETWEEN_LINES) + STARTING_X;
